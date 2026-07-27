@@ -17,10 +17,10 @@ const manshi = {
   stack: {
     languages: ["Java"],
     frontend: ["HTML", "JavaScript"],
-    learning: "MERN Stack (Summer 2026)",
+    learning: "MERN Stack (Summer 2026)", DSA
   },
-  aiTools: ["Claude", "ChatGPT", "GitHub Copilot", "Gemini", "Antigravity"],
-  launchedProjects: ["mern-summer-challenge"],
+  aiTools: ["Claude", "ChatGPT", "GitHub Copilot", "Gemini", "Antigravity", "cursor'],
+  launchedProjects: ["mern-summer-challenge"], ["SakhiSense-AI"],
   certifications: [],
   status: "Actively learning DSA in Java + building MERN fundamentals",
   openTo: "Not currently open to work",
@@ -31,6 +31,9 @@ const manshi = {
 
 ### 🔹 MERN Summer Challenge
 Self-directed summer project to learn the MERN stack from the ground up.
+
+### 🔹SakhiSense-AI 
+A fintech project- Your ai financial twin.
 
 | Layer | Technology |
 |---|---|
