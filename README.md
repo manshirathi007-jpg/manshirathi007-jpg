@@ -16,7 +16,7 @@ const manshi = {
   title: "CS Student",
   stack: {
     languages: ["Java"],
-    frontend: ["HTML", "JavaScript"],
+    frontend: ["HTML", "CSS", "JavaScript"],
     learning: "MERN Stack (Summer 2026)", DSA
   },
   aiTools: ["Claude", "ChatGPT", "GitHub Copilot", "Gemini", "Antigravity", "cursor'],
